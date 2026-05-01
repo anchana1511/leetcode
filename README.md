@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anchana1511/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anchana1511/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/anchana1511/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anchana1511/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anchana1511/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anchana1511/leetcode/tree/master/0051-n-queens) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anchana1511/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anchana1511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/anchana1511/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/anchana1511/leetcode/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/anchana1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/anchana1511/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -152,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anchana1511/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anchana1511/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anchana1511/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anchana1511/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anchana1511/leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anchana1511/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
